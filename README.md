@@ -1,0 +1,1 @@
+This is a sample codes to work with redis and go redis client
